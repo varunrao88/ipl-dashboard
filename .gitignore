@@ -36,3 +36,7 @@ mvnw
 .mvn/wrapper/maven-wrapper.jar
 .mvn/wrapper/maven-wrapper.properties
 .mvn/wrapper/MavenWrapperDownloader.java
+
+### React Aoo ###
+/src/frontend/node_modules/
+src/frontend/package-lock.json
